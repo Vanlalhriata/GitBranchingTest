@@ -3,3 +3,5 @@ master 1
 
 dev bug fix 1
 dev bug fix 2
+
+feature 2 part 1
