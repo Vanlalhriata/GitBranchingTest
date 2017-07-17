@@ -7,3 +7,7 @@ dev bug fix 1
 dev bug fix 2
 dev bug fix 3
 dev bug fix 4
+
+feature 1 part 1
+feature 1 part 2
+feature 1 part 3
