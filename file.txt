@@ -1,6 +1,8 @@
 Original
 master 1
 
+hotfix 1
+
 dev bug fix 1
 dev bug fix 2
 dev bug fix 3
