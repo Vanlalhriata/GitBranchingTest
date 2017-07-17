@@ -2,3 +2,15 @@ Original
 master 1
 
 hotfix 1
+
+dev bug fix 1
+dev bug fix 2
+dev bug fix 3
+dev bug fix 4
+
+feature 1 part 1
+feature 1 part 2
+feature 1 part 3
+
+release 1.1.x fix 1
+release 1.1.x fix 2
